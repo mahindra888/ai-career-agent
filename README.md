@@ -97,16 +97,6 @@ Unlike browser bots (Selenium/Puppeteer) that risk account suspensions by auto-c
 
 * **1-Click Human-in-the-Loop:** The agent completes 95% of the preparation (resumes, verified links, screening answers). The candidate clicks the direct link, uploads the tailored resume, and submits in under 30 seconds.
 
-## 💼 Commercial Monetization & Resale Rights
-
-You have full rights to package, white-label, or sell this system:
-
-* **Done-for-You Career Agency:** Charge a monthly retainer (₹5,000–₹15,000 / mo or \$100–$300 / mo) to run the system for clients.
-
-* **1-on-1 Setup Consulting:** Charge a one-time onboarding fee (₹2,000–₹5,000 or \$50–$100).
-
-* **Digital Download Product:** Sell on Gumroad, Payhip, or Topmate (₹499–₹1,499 or \$19–$49).
-
 ## 📄 License
 
 This project is open-sourced under the [MIT License](https://www.google.com/search?q=LICENSE) — free for personal and commercial use.
